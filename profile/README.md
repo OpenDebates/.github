@@ -7,6 +7,6 @@
 </p>
 
 ## Mission
-- Create mathematical models that measure criteria like validity and demagoguery. 
+- Create mathematical models that observe validity and soundness of arguments. 
 - Faciliate a platform for discussion that accounts for these criteria.
 - Build software required to facilitate such platforms.
